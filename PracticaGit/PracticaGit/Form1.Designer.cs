@@ -69,7 +69,6 @@ namespace PracticaGit
             this.aluNota.Name = "aluNota";
             this.aluNota.Size = new System.Drawing.Size(62, 20);
             this.aluNota.TabIndex = 2;
-
             // 
             // label3
             // 
@@ -113,7 +112,7 @@ namespace PracticaGit
             this.Controls.Add(this.label1);
             this.Controls.Add(this.aluNombre);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "S";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
